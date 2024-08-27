@@ -1,0 +1,7 @@
+{"210": {"subject": "DLD", "class length": 75, "instructors": {"name1": ["MW 11:00", "MW 09:00"]}},
+ "210 lab": {"subject": "DLD lab", "class length": 150, "instructors": {"name2": ["W 14:00", "M 14:00", "Th 14:00", "Th 17:00"]}},
+ "122": {"subject": "Phys 2", "class length": 105, "instructors": {"name3": ["MW 08:00"], "name4": ["MW 08:00", "TTh 08:00", "TTh 10:00"]}},
+ "232": {"subject": "Eng math", "class length": 75, "instructors": {"name5": ["MW 09:30", "MW 12:30"], "name6": ["MW 12:30", "TTh 14:00"], "name7": ["TTh 12:30"]}},
+ "230": {"subject": "OOP", "class length": 75, "instructors": {"name8": ["MW 11:00", "MW 09:30"], "name9": ["MW 11:00", "MW 9:30"], "name10": ["MW 9:30"]}},
+ "230 lab": {"subject": "OOP lab", "class length": 150, "instructors": {"n/a": [ "W 14:00", "T 08:00", "T 14:00", "Th 14:00"]}}
+}
